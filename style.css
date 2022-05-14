@@ -16,3 +16,8 @@ img{
   width: 100%;
   max-width: 700px;
 }
+.bl{
+  border-left: 1px dashed;
+  border-right: 1px dashed;
+  border-color: rgb(37, 37, 37);
+}
